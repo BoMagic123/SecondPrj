@@ -4,16 +4,48 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8f6d3427-45a4-4840-a948-ca6f1b584e8c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/STT_21087261_NguyenDucManh.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/iuh/fit/se/Rectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/iuh/fit/se/TestRectangle.java" afterDir="false" />
+    <list default="true" id="8f6d3427-45a4-4840-a948-ca6f1b584e8c" name="Changes" comment="SecondPrj">
+      <change afterPath="$PROJECT_DIR$/docs/Main.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/allclasses-index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/allpackages-index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/element-list" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/help-doc.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/index-files/index-1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/index-files/index-2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/index-files/index-3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/index-files/index-4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/index-files/index-5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/index-files/index-6.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/iuh/fit/se/Rectangle.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/iuh/fit/se/TestRectangle.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/iuh/fit/se/package-summary.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/iuh/fit/se/package-tree.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/legal/COPYRIGHT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/legal/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/legal/jquery.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/legal/jqueryUI.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/member-search-index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/module-search-index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/overview-summary.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/overview-tree.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/package-search-index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/package-summary.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/package-tree.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/resource-files/copy.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/resource-files/glass.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/resource-files/jquery-ui.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/resource-files/link.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/resource-files/stylesheet.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/resource-files/x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/script-files/jquery-3.6.1.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/script-files/jquery-ui.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/script-files/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/script-files/search-page.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/script-files/search.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/search.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/tag-search-index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/type-search-index.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -92,12 +124,25 @@
       <option name="presentableId" value="Default" />
       <updated>1724543296329</updated>
       <workItem from="1724543297421" duration="4892000" />
-      <workItem from="1725113850548" duration="290000" />
+      <workItem from="1725113850548" duration="509000" />
     </task>
+    <task id="LOCAL-00001" summary="SecondPrj">
+      <option name="closed" value="true" />
+      <created>1725114223816</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1725114223816</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="SecondPrj" />
+    <option name="LAST_COMMIT_MESSAGE" value="SecondPrj" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
